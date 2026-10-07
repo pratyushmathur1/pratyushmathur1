@@ -1,6 +1,5 @@
 # Pratyush Mathur
 
-Systems / ML infrastructure. I build the plumbing under LLM serving -- schedulers, memory, and CUDA -- and measure it.
 
 ## Featured
 
